@@ -49,8 +49,3 @@ Le tableau de bord a été développé avec **Power BI**, qui permet de centrali
 
 ---
 
-## 📷 Aperçu du Dashboard
-
-![Aperçu du Dashboard](/dashboard.png)
-
-
